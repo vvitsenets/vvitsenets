@@ -1,6 +1,6 @@
-### Hi! I'm Vladyslav Vitsenets 👋
-
 <p align="center"><img src="https://user-images.githubusercontent.com/33357541/143619158-ac832d3e-82bc-46cb-8d13-54876cae21de.mp4"></p>
+
+### Hi! I'm Vladyslav Vitsenets 👋🏻
 
 - 🔭 I'm a Game Developer. I'm also like to do design work sometimes.
 - 💬 Ask me about VR or AR on the Linkedin
