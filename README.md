@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/33357541/143619158-ac832d3e-82bc-46cb-8d13-54876cae21de.mp4"></p>
+![143619158-ac832d3e-82bc-46cb-8d13-54876cae21de-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3964b93f-b282-49c1-9b45-a21ac8688426)
 
 ### Hi! I'm Vladyslav Vitsenets 👋🏻
 
